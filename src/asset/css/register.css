@@ -1,0 +1,45 @@
+.form-container-register {
+  height: 500px;
+  width: 400px;
+  background-color: rgba(255, 255, 255, 0.13);
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+  padding: 50px 35px;
+ }
+.input-register {
+  margin: 20px 0;
+  padding: 15px;
+  width: 380px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  }
+  
+  .label-register {
+    margin-top: 8px;
+  }
+
+  .label-agree-terms {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 8px;
+    font-size: 14px;
+  }
+  
+  .label-agree-terms input {
+    margin-right: 8px;
+  }
+  
+  .label-agree-terms h5 {
+    margin: 0;
+  }
+
+  
+  
+  
